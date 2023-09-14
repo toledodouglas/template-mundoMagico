@@ -1,12 +1,10 @@
 import './App.css'
+import Home from './components/page/Home/Home';
 
 export default function App() {
   return (
     <>
-      <div className='container'>
-        <h1>Hello World!!!</h1>
-        <p>teste</p>
-      </div>
+      <Home/>
     </>
   );
 }
