@@ -1,5 +1,5 @@
 import './App.css'
-import Home from './components/page/Home/Home';
+import Portifolio from './components/page/Portifolio/Portifolio';
 
 export default function App() {
   return (
