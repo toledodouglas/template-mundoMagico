@@ -8,3 +8,9 @@
     }
     line-height: $line-height;
 }
+
+@mixin link{
+    @include typhography();
+    text-decoration: none;
+
+}
